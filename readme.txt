@@ -1,3 +1,3 @@
 11112222
 add new info
-checkout a new branch "feature0"
+checkout a new branch "feature"
